@@ -1,4 +1,4 @@
-from mailman import __version__
+from serial_mailman import __version__
 
 
 def test_version():

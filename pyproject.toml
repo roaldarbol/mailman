@@ -1,8 +1,11 @@
 [tool.poetry]
-name = "mailman"
+name = "serial-mailman"
 version = "0.1.0"
 description = ""
 authors = ["Mikkel Roald-Arbøl <github.ggb9a@simplelogin.co>"]
+readme = "README.md"
+repository = "https://github.com/roaldarbol/mailman"
+homepage = "https://github.com/roaldarbol/mailman"
 
 [tool.poetry.dependencies]
 python = "^3.9"
